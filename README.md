@@ -11,7 +11,7 @@ This could apply to Project Teams, Aggregator service providers, Analytics Provi
     
     Contract address of the token(s) you want to add
     
-    A free Netlify or Vercel (or any other cloud hosting service of your choice) if you want to publish it to your friends or on the www
+    A free Netlify or Vercel account (or any other cloud hosting service of your choice) if you want to publish it to your friends or on the www
 
     All you have to do, is replace the Token Address, Symbol, Decimals and image location in the code above with your own respective details. The example above uses the Blocktools Uni V2 LP Token which TOOLS holders receive as free rewards for staking their TOOLS, here is what the “Add to Wallet” button looks like on the dashboard.
     
